@@ -1,5 +1,5 @@
 //
-// client.c
+// client.c -
 // simple_client
 //
 // Created by Injae Lee on 2014. 10. 10.
